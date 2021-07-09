@@ -13,7 +13,7 @@ var usersRouter = require('./routes/users');
 
 const web3 = new Web3('http://localhost:8545');
 
-accountAddress = "0x45bD750CCc4E4440Dd6c656EB7963E254eE58058";
+accountAddress = "0x84d1D35c76315E481cA58A9c6aee2c5A06FD03D1";
 contractAddress = MyContractJSON.networks['5777'].address;
 var contractAbi = MyContractJSON.abi;
 
