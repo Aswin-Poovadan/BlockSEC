@@ -33,8 +33,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="keywords" content="Augment Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	<title>BlockSec-KTU</title>
+	<meta name="keywords" content="BlockSec" />
 	<script type="application/x-javascript">
 		addEventListener("load", function() {
 			setTimeout(hideURLbar, 0);
@@ -144,16 +144,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</ul>
 					</li>
 					
-					<li id="menu-academico"><a href="#"><i class="fa fa-file-text-o"></i> <span>College_Admin</span> <span class="fa fa-angle-right" style="float: right"></span></a>
-						
-					<ul id="menu-academico-sub">
-							<li id="menu-academico-avaliacoes"><a href="home.php?ravi=teacher-information">College_Admin Information</a></li>
-							<li id="menu-academico-avaliacoes"><a href="home.php?ravi=teacher-edit">Edit College_Admin</a></li>
-							<li id="menu-academico-boletim"><a href="home.php?ravi=teacher-add">Add College_Admin</a></li>
-							<li id="menu-academico-avaliacoes"><a href="home.php?ravi=teacher-delete">Delete College_Admin</a></li>
-
-						</ul>
-					</li>
+					
 					
 			
 					<li id="menu-academico"><a href="#"><i class="fa fa-file-text-o"></i> <span>Settings</span> <span class="fa fa-angle-right" style="float: right"></span></a>
