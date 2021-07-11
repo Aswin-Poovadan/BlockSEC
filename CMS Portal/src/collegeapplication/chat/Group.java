@@ -3,10 +3,7 @@ package collegeapplication.chat;
 import java.awt.Image;
 
 /*
- * Title : Group.java
- * Created by : Ajaysinh Rathod
  * Purpose : To binding all the data related to group
- * Mail : ajaysinhrathod1290@gmail.com
  */
 class Group
 {

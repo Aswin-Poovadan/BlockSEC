@@ -34,9 +34,9 @@ import collegeapplication.student.StudentMain;
 
 /*
  * Title : PrintPageDialog.java
- * Created by : Ajaysinh Rathod
+ 
  * Purpose : To download student marksheet in selected format 
- * Mail : ajaysinhrathod1290@gmail.com
+ 
  */
 
 @SuppressWarnings("serial")

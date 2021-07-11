@@ -30,9 +30,9 @@ import collegeapplication.student.StudentMain;
 
 /*
  * Title : LoginPanel.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : For login
- * Mail : ajaysinhrathod1290@gmail.com
+ 
  */
 @SuppressWarnings("serial")
 public class LoginPanel extends JPanel implements ActionListener

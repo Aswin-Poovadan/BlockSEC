@@ -6,9 +6,9 @@ import collegeapplication.cource.CourceData;
 
 /*
  * Title : Faculty.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : Binding all the of faculty
- * Mail : ajaysinhrathod1290@gmail.com
+
  */
 public class Faculty extends  Person
 {

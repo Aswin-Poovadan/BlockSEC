@@ -32,12 +32,7 @@ import javax.swing.text.Document;
 
 import java.awt.Cursor;
 
-/*
- * Title : ChatMainPanel.java
- * Created by : Ajaysinh Rathod
- * Purpose : Main chat frame 
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 @SuppressWarnings("serial")
 public class ChatMainPanel extends JPanel {
 

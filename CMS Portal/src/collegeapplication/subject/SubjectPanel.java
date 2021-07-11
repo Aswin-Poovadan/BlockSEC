@@ -32,9 +32,9 @@ import net.proteanit.sql.DbUtils;
 
 /*
  * Title : SubjectPanel.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : Displaying all the subject in given cource and sem
- * Mail : ajaysinhrathod1290@gmail.com
+
  */
 
 @SuppressWarnings("serial")

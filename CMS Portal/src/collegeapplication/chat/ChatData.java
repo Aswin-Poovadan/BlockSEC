@@ -14,12 +14,7 @@ import collegeapplication.cource.CourceData;
 import collegeapplication.faculty.Faculty;
 import collegeapplication.student.Student;
 
-/*
- * Title : ChatData.java
- * Created by : Ajaysinh Rathod
- * Purpose : Manages all the data related to chat 
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 public class ChatData {
 	
 	Connection con=DataBaseConnection.getConnection();

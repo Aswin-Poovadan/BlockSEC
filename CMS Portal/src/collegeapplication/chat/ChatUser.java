@@ -4,12 +4,7 @@ import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/*
- * Title : ChatUser.java
- * Created by : Ajaysinh Rathod
- * Purpose : Binding all the data about chat
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 public class ChatUser implements Serializable
 {
 	

@@ -27,9 +27,9 @@ import net.proteanit.sql.DbUtils;
 
 /*
  * Title : AssignSubjectPanel.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : Displaying all the faculty with assigned subject
- * Mail : ajaysinhrathod1290@gmail.com
+
  */
 @SuppressWarnings("serial")
 public class AssignSubjectPanel extends JPanel {

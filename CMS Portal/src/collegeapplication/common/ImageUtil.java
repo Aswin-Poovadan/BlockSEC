@@ -7,12 +7,12 @@ import java.awt.*;
 
 /*
  * Title : ImageUtil.java
- * Created by : Ajaysinh Rathod
+
  * Purpose  : All the functions related to image like..
  * 			->Image to bufferedimage
  * 			->Resizing Bufferdimage
  * 			->Converting square shape image to round shape
- * Mail : ajaysinhrathod1290@gmail.com
+ 
  * Reference : https://stackoverflow.com/
  */
 public class ImageUtil {

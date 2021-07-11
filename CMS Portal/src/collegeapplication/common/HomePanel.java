@@ -26,9 +26,9 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : HomePanel.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : Home Page
- * Mail : ajaysinhrathod1290@gmail.com
+ 
  */
 
 @SuppressWarnings("serial")

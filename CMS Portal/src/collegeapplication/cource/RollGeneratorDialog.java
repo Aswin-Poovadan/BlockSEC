@@ -21,9 +21,9 @@ import javax.swing.border.MatteBorder;
 
 /*
  * Title : RollGeneratorDialog.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : Dialog for generating rollnumber 
- * Mail : ajaysinhrathod1290@gmail.com
+
  */
 
 @SuppressWarnings("serial")

@@ -4,9 +4,9 @@ import collegeapplication.subject.Subject;
 
 /*
  * Title : Marks.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : Binding all the data related to marks
- * Mail : ajaysinhrathod1290@gmail.com
+
  */
 
 public class Marks extends Subject

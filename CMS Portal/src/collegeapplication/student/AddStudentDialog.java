@@ -42,9 +42,9 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : AddStudentDialog.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : For adding new student or edit student details
- * Mail : ajaysinhrathod1290@gmail.com
+
  */
 @SuppressWarnings("serial")
 public class AddStudentDialog extends JDialog implements ActionListener {

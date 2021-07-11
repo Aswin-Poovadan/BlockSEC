@@ -17,14 +17,7 @@ import java.io.IOException;
 import javax.swing.SwingConstants;
 import java.awt.Cursor;
 
-/*
- * Title : ChatPanel.java
- * Created by : Ajaysinh Rathod
- * Purpose : Chat Panel top bar and subsubchatpanel
- * 			 Top bar : Display User name at top bar and handle the sub chat panel
- * 		   	 Sub chat panel : All the messages which user sending and receiving are display here
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 @SuppressWarnings("serial")
 public class ChatPanel extends JPanel
 {

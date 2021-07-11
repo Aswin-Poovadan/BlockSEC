@@ -18,9 +18,9 @@ import javax.swing.JTextField;
 
 /*
  * Title : RollGeneratorPanel.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : Creating panel according to sem and sending to RollGeneratorDialog
- * Mail : ajaysinhrathod1290@gmail.com
+
  */
 
 @SuppressWarnings("serial")

@@ -13,9 +13,9 @@ import collegeapplication.common.TimeUtil;
 
 /*
  * Title : SubjectData.java
- * Created by : Ajaysinh Rathod
+
  * Purpose : Handling all the data related to subject
- * Mail : ajaysinhrathod1290@gmail.com
+
  */
 
 public class SubjectData 
