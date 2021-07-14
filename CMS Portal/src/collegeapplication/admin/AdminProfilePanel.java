@@ -147,7 +147,7 @@ public class AdminProfilePanel extends JPanel {
 		contactnumberlabel.setBounds(423, 307, 672, 48);
 		add(contactnumberlabel);
 		
-		JLabel lblWebsite = new JLabel("Website  :  ");
+		JLabel lblWebsite = new JLabel("BlockSec Certify  :  ");
 		lblWebsite.setHorizontalAlignment(SwingConstants.RIGHT);
 		lblWebsite.setFont(new Font("Segoe UI", Font.PLAIN, 20));
 		lblWebsite.setBorder(new LineBorder(Color.LIGHT_GRAY));
