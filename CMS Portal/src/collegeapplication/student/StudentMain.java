@@ -315,8 +315,7 @@ public class StudentMain extends JFrame  implements ActionListener
 		myprofilebutton = createButton("My Profile","Profile");
 		sidebarpanel.add(myprofilebutton);
 		
-		contactusbutton= createButton("Contact Us");
-		sidebarpanel.add(contactusbutton);
+		
 		
 		logoutbutton = createButton("logout");
 		sidebarpanel.add(logoutbutton);
