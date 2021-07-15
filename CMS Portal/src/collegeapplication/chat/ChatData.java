@@ -392,9 +392,9 @@ public class ChatData {
 }
 /*
  * Title : NewMessage
- * Created by : Ajaysinh Rathod
+
  * Purpose : To calculate total messages,last message,last messagetime
- * Mail : ajaysinhrathod1290@gmail.com
+ 
  */
 class NewMessage
 {
